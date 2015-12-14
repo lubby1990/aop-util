@@ -1,4 +1,4 @@
-package com.lubby.test;
+package com.lubby.example;
 
 import com.lubby.advice.IAdvice;
 import com.lubby.proxy.DynamicProxy;
